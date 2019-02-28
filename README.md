@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Environment Variables
+
+The project needs the following variables:
+
+**API_KEY**
+
+**WEATHER_URL**
+
 ## Available Scripts
 
 In the project directory, you can run:
